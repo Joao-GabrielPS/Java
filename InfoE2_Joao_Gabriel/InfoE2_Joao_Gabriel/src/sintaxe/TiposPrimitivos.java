@@ -33,5 +33,6 @@ public class TiposPrimitivos {
         System.out.println("Double: " + totalSalario);
         System.out.println("Boolean: " + opcao);
         System.out.println("Char: " + sexo);
+        System.out.println("Olá Mundo");
     }
 }
