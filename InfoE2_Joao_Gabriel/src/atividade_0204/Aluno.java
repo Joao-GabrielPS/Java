@@ -10,5 +10,14 @@ package atividade_0204;
  * @author 12409864678
  */
 public class Aluno {
-    
+    String nome;
+    int matricula, idade;
+    public void exibirDados(){
+        System.out.println("O nome do aluno: "+this.nome);
+        System.out.println("A matricula do aluno: "+this.matricula);
+        System.out.println("A idade do aluno: "+this.idade);
+    }
+    public void fazerMatricula(){
+        System.out.println("O aluno foi matriculado.");
+    }
 }
