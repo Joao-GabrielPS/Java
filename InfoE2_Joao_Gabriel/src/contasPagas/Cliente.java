@@ -9,5 +9,5 @@ package contasPagas;
  * @author 12409864678
  */
 public class Cliente {
-    
+    String nomeCliente, cpf;
 }
