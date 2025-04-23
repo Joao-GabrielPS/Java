@@ -16,7 +16,7 @@ public class TesteCasa {
         Casa casinha = new Casa();
         
      //Pessoa
-     pes.nome = "Iago";
+     pes.nome = "João";
      pes.idade = 16;
      pes.fazAniversario();
      
